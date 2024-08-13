@@ -81,7 +81,7 @@ The frontend is a React application with components for adding, deleting, issuin
 - **Return Book Form**: Form to return books.
 - **View Books Table**: Table displaying the list of books with their statuses.
   
-![Frontend Screenshot](https://drive.google.com/file/d/1HDmHDVE2L910BF5BOC4s_tTA_dRE8SvW/view)
+[![Frontend-library.png](https://i.postimg.cc/qqJqfNm6/frontend-library.png)](https://postimg.cc/dkfwrVcJ)
 
 ## Error Handling
 
