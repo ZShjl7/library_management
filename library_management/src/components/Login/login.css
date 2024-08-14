@@ -1,0 +1,77 @@
+/* Center the login container on the page */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('C:\Users\zaara\OneDrive\Desktop\library\library_management\src\assets\library.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;  
+}
+  
+  /* Styling the login card */
+  .login-card {
+    background-color: rgba(0, 0, 0, 0.697);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    width: 90%;
+    max-width: 400px;
+  }
+  
+  /* Center the heading */
+  .login-card h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Aboreto', cursive; /* Using Aboreto font */
+    color: #fff;
+    font-size: 50px;
+  }
+  
+  /* Styling the form group */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+
+  .logintext{
+    color: #fff;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Styling the login button */
+  .form-actions {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .login-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .login-btn:hover {
+    background-color: #45a049;
+  }
+  
+  .error{
+    color: #fff;
+  }
